@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    color: #ed195c;
+    background-color: #000;
+    padding: 2em;
+    border-radius: 1rem;
+    max-width: 40%;
+    height: 19rem;
+    margin-bottom: 2rem;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.foto-carteirinha img{
+    border-radius: 10px;
+    margin-right: 2rem;
+}
+
+.logo-fiap{
+    width: 30%;
+}
